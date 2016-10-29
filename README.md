@@ -1,2 +1,2 @@
-# shopbuyplus
-用thinkphp做完一个shop商城
+# 坚持学习,坚持锻炼
+
